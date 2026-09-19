@@ -1,3 +1,5 @@
+// Группа: Пи1-1
+// Студентка: Власова Александра Евгеньевна
 #include <stdio.h>
 int main(void) { int h, w;
 printf("Enter h and w (2..10): ");
